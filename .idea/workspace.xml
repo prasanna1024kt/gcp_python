@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/output_files/wordcount_output.txt-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_files/input-files.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml-parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml-parser.py" afterDir="false" />
-    </list>
+    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
