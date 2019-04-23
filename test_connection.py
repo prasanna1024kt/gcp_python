@@ -1,7 +1,7 @@
 import requests
 
 base_url ='http://www.squadup.com/api/v3/'
-access_token='0c94d8ce85d7dd441a07deb5940b1ab9176bf1cb1e26238dd62375ebd1edc222'
+
 
 events_url= 'events'
 

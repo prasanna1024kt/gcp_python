@@ -5,9 +5,9 @@ import logging
 import datetime
 import xmltodict
 from airflow import DAG
-from hooks.custom_bq_hook import CustomBQHook
+from custom_bq_hook import CustomBQHook
 from airflow.models import BaseOperator
-from hooks.web_crawler_hook import WebXMLCrawling
+from web_crawler_hook import WebXMLCrawling
 from airflow.utils.file import TemporaryDirectory
 import pandas as pd
 import sys
