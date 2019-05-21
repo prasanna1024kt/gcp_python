@@ -1,0 +1,11 @@
+{
+    "report":
+    {
+        "report_type":"video_analytics_network",
+      "columns":["hour","day","month","buyer_member_id","buyer_member_name","creative_id","creative_name","member_id","seller_member_id","seller_member_name","advertiser_id","advertiser_name","advertiser_currency","publisher_id","publisher_name","publisher_currency","site_id","site_name","placement_id","placement_name","placement_code","insertion_order_id","insertion_order_name","insertion_order","line_item_id","line_item_name","campaign_id","campaign_name","size","brand_id","brand_name","geo_country","geo_country_name","deal_id","deal_name","trafficker_for_insertion_order","creative_recency_bucket_id","creative_recency_bucket","creative_frequency_bucket","creative_frequency_bucket_id","site_domain","supply_type","video_playback_method","video_context","imps","clicks", "cost","revenue","profit","cpm","total_convs","convs_rate","ctr","rpm","rpm_including_fees","total_network_rpm","ppm","ppm_including_fees",  "cpm_including_fees","errors","starts","start_rate","skips","skip_rate","25_pcts", "50_pcts", "75_pcts", "completions", "completion_rate", "revenue_per_video_complete",  "cost_per_video_complete", "served",  "imps_viewed", "view_measured_imps",  "view_rate",   "view_measurement_rate"
+          ],
+       "start_date": "2019-04-28 00:00:00",
+        "end_date" : "2019-04-29 00:00:00",
+        "format":"csv"
+    }
+}
