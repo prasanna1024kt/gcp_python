@@ -1,0 +1,578 @@
+[
+  {
+    "name": "adjustment_day",
+    "type": "date"
+  },
+  {
+    "name": "adjustment_hour",
+    "type": "timestamp"
+  },
+  {
+    "name": "buyer_member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "buyer_member_name",
+    "type": "string"
+  },
+  {
+    "name": "buyer_type",
+    "type": "string"
+  },
+  {
+    "name": "buying_currency",
+    "type": "string"
+  },
+  {
+    "name": "adjustment_id",
+    "type": "string"
+  },
+  {
+    "name": "advertiser_code",
+    "type": "string"
+  },
+  {
+    "name": "advertiser_currency",
+    "type": "string"
+  },
+  {
+    "name": "advertiser_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "advertiser_name",
+    "type": "STRING"
+  },
+  {
+    "name": "advertiser_type",
+    "type": "STRING"
+  },
+  {
+    "name": "bid_type",
+    "type": "STRING"
+  },
+  {
+    "name": "brand_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "brand_name",
+    "type": "string"
+  },
+  {
+    "name": "campaign_code",
+    "type": "string"
+  },
+  {
+    "name": "campaign_name",
+    "type": "string"
+  },
+  {
+    "name": "campaign_priority",
+    "type": "string"
+  },
+  {
+    "name": "creative_code",
+    "type": "string"
+  },
+  {
+    "name": "creative_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "creative_name",
+    "type": "string"
+  },
+  {
+    "name": "day",
+    "type": "date"
+  },
+  {
+    "name": "inventory_class",
+    "type": "string"
+  },
+  {
+    "name": "imps_filtered_reason",
+    "type": "string"
+  },
+  {
+    "name": "imps_filtered_reason_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imp_type",
+    "type": "string"
+  },
+  {
+    "name": "imp_type_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "deal_code",
+    "type": "string"
+  },
+  {
+    "name": "deal_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "deal_name",
+    "type": "string"
+  },
+  {
+    "name": "entity_member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "geo_country",
+    "type": "string"
+  },
+  {
+    "name": "geo_country_name",
+    "type": "string"
+  },
+  {
+    "name": "marketplace_clearing_event",
+    "type": "string"
+  },
+  {
+    "name": "marketplace_clearing_event_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "marketplace_clearing_event_name",
+    "type": "string"
+  },
+  {
+    "name": "mediatype_id",
+    "type": "string"
+  },
+  {
+    "name": "media_type",
+    "type": "string"
+  },
+  {
+    "name": "month",
+    "type": "date"
+  },
+  {
+    "name": "payment_type",
+    "type": "string"
+  },
+  {
+    "name": "pixel_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "placement_code",
+    "type": "string"
+  },
+  {
+    "name": "placement_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "placement_name",
+    "type": "string"
+  },
+  {
+    "name": "publisher_code",
+    "type": "string"
+  },
+  {
+    "name": "publisher_currency",
+    "type": "string"
+  },
+  {
+    "name": "publisher_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "publisher_name",
+    "type": "string"
+  },
+  {
+    "name": "pub_rule_code",
+    "type": "string"
+  },
+  {
+    "name": "pub_rule_name",
+    "type": "string"
+  },
+  {
+    "name": "pub_rule_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "revenue_type",
+    "type": "string"
+  },
+  {
+    "name": "revenue_type_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "seller_member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "seller_member_name",
+    "type": "string"
+  },
+  {
+    "name": "seller_type",
+    "type": "string"
+  },
+  {
+    "name": "selling_currency",
+    "type": "string"
+  },
+  {
+    "name": "site_code",
+    "type": "string"
+  },
+  {
+    "name": "site_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "site_name",
+    "type": "string"
+  },
+  {
+    "name": "size",
+    "type": "string"
+  },
+  {
+    "name": "supply_type",
+    "type": "string"
+  },
+  {
+    "name": "imps",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imp_requests",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_blank",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_psa",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_psa_error",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_default_error",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_default_bidder",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_kept",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_resold",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_rtb",
+    "type": "INTEGER"
+  },
+  {
+    "name": "external_impression",
+    "type": "INTEGER"
+  },
+  {
+    "name": "clicks",
+    "type": "INTEGER"
+  },
+  {
+    "name": "click_thru_pct",
+    "type": "FLOAT"
+  },
+  {
+    "name": "external_click",
+    "type": "INTEGER"
+  },
+  {
+    "name": "cost",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cost_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "revenue_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "booked_revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "booked_revenue_adv_curr",
+    "type": "FLOAT"
+  },
+  {
+    "name": "reseller_revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "profit",
+    "type": "FLOAT"
+  },
+  {
+    "name": "profit_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "commissions",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "post_click_convs",
+    "type": "INTEGER"
+  },
+  {
+    "name": "post_click_revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "post_view_convs",
+    "type": "INTEGER"
+  },
+  {
+    "name": "post_view_revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_convs",
+    "type": "INTEGER"
+  },
+  {
+    "name": "convs_per_mm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "convs_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ctr",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_network_rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_publisher_rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "sold_network_rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "sold_publisher_rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "media_cost_pub_curr",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "serving_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "imps_viewed",
+    "type": "INTEGER"
+  },
+  {
+    "name": "view_measured_imps",
+    "type": "INTEGER"
+  },
+  {
+    "name": "view_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "view_measurement_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpvm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "imps_master_creative",
+    "type": "INTEGER"
+  },
+  {
+    "name": "data_costs",
+    "type": "FLOAT"
+  },
+  {
+    "name": "imps_filtered",
+    "type": "INTEGER"
+  },
+  {
+    "name": "avg_bid_reduction",
+    "type": "string"
+  },
+  {
+    "name": "revenue_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "revenue_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "booked_revenue_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "booked_revenue_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "reseller_revenue_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "reseller_revenue_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cost_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cost_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "profit_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "profit_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_network_rpm_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_network_rpm_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "sold_network_rpm_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "old_network_rpm_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "commissions_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "commissions_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "serving_fees_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "serving_fees_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "data_costs_buying_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "data_costs_selling_currency",
+    "type": "FLOAT"
+  },
+  {
+    "name": "marketplace_clearing_event_units",
+    "type": "FLOAT"
+  },
+  {
+    "name": "marketplace_clearing_events_booked_revenue_cpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "marketplace_clearing_event_buyer_media_cost_ecpm",
+    "type": "FLOAT"
+  }
+]

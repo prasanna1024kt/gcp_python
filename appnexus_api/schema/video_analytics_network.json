@@ -1,0 +1,309 @@
+[
+  {
+    "name": "hour",
+    "type": "timestamp"
+  },
+  {
+    "name": "day",
+    "type": "date"
+  },
+  {
+    "name": "month",
+    "type": "date"
+  },
+  {
+    "name": "buyer_member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "buyer_member_name",
+    "type": "string"
+  },
+  {
+    "name": "creative_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "creative_name",
+    "type": "string"
+  },
+  {
+    "name": "member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "seller_member_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "seller_member_name",
+    "type": "string"
+  },
+  {
+    "name": "advertiser_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "advertiser_name",
+    "type": "STRING"
+  },
+  {
+    "name": "advertiser_currency",
+    "type": "STRING"
+  },
+  {
+    "name": "publisher_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "publisher_name",
+    "type": "string"
+  },
+  {
+    "name": "publisher_currency",
+    "type": "string"
+  },
+  {
+    "name": "site_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "site_name",
+    "type": "string"
+  },
+  {
+    "name": "placement_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "placement_name",
+    "type": "string"
+  },
+  {
+    "name": "placement_code",
+    "type": "string"
+  },
+  {
+    "name": "insertion_order_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "insertion_order_name",
+    "type": "string"
+  },
+  {
+    "name": "insertion_order",
+    "type": "string"
+  },
+  {
+    "name": "line_item_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "line_item_name",
+    "type": "string"
+  },
+  {
+    "name": "campaign_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "campaign_name",
+    "type": "string"
+  },
+  {
+    "name": "size",
+    "type": "string"
+  },
+  {
+    "name": "brand_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "brand_name",
+    "type": "string"
+  },
+  {
+    "name": "geo_country",
+    "type": "string"
+  },
+  {
+    "name": "geo_country_name",
+    "type": "string"
+  },
+  {
+    "name": "deal_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "deal_name",
+    "type": "string"
+  },
+  {
+    "name": "trafficker_for_insertion_order",
+    "type": "string"
+  },
+  {
+    "name": "creative_recency_bucket_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "creative_recency_bucket",
+    "type": "string"
+  },
+  {
+    "name": "creative_frequency_bucket",
+    "type": "string"
+  },
+  {
+    "name": "creative_frequency_bucket_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "site_domain",
+    "type": "STRING"
+  },
+  {
+    "name": "supply_type",
+    "type": "string"
+  },
+  {
+    "name": "video_playback_method",
+    "type": "string"
+  },
+  {
+    "name": "video_context",
+    "type": "string"
+  },
+
+  {
+    "name": "imps",
+    "type": "INTEGER"
+  },
+
+  {
+    "name": "clicks",
+    "type": "INTEGER"
+  },
+  {
+    "name": "cost",
+    "type": "FLOAT"
+  },
+  {
+    "name": "revenue",
+    "type": "FLOAT"
+  },
+  {
+    "name": "profit",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_convs",
+    "type": "INTEGER"
+  },
+
+  {
+    "name": "convs_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ctr",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_network_rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ppm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cpm_including_fees",
+    "type": "FLOAT"
+  },
+  {
+    "name": "errors",
+    "type": "INTEGER"
+  },
+  {
+    "name": "starts",
+    "type": "INTEGER"
+  },
+  {
+    "name": "start_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "skips",
+    "type": "INTEGER"
+  },
+  {
+    "name": "skip_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "_25_pcts",
+    "type": "INTEGER"
+  },
+  {
+    "name": "_50_pcts",
+    "type": "INTEGER"
+  },
+  {
+    "name": "_75_pcts",
+    "type": "INTEGER"
+  },
+  {
+    "name": "completions",
+    "type": "INTEGER"
+  },
+  {
+    "name": "completion_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "revenue_per_video_complete",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cost_per_video_complete",
+    "type": "FLOAT"
+  },
+  {
+    "name": "served",
+    "type": "INTEGER"
+  },
+  {
+    "name": "imps_viewed",
+    "type": "INTEGER"
+  },
+  {
+    "name": "view_measured_imps",
+    "type": "INTEGER"
+  },
+  {
+    "name": "view_rate",
+    "type": "FLOAT"
+  },
+  {
+    "name": "view_measurement_rate",
+    "type": "FLOAT"
+  }
+]
