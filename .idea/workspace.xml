@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CustomAppnexusOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/appnexus_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/conf/appnexus_dev.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/conf/appnexus_prod.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/conf/appnexus_uat.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/schema/network_analysis.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appnexus_api/schema/video_analytics_network.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +12,7 @@
     <session id="100359208">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="2" />
@@ -118,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/moat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+            <state relative-caret-position="283">
+              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -387,7 +376,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40536723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40536723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,8 +564,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/moat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+        <state relative-caret-position="283">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
