@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataFlow/GcsToBQDataFlow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataFlow/dataflow_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataFlow/sampleFileWrite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9887869c-3b4b-44d5-aafb-d62315b92566" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="21" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
@@ -266,11 +261,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.basic_dataflow_pgm" />
-      <item itemvalue="Python.word_count" />
-      <item itemvalue="Python.appNexus" />
       <item itemvalue="Python.Streaming_twetter_data_BQ" />
+      <item itemvalue="Python.appNexus" />
+      <item itemvalue="Python.basic_dataflow_pgm" />
       <item itemvalue="Python.moat" />
+      <item itemvalue="Python.word_count" />
     </list>
     <recent_temporary>
       <list>
